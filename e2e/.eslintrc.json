@@ -1,0 +1,10 @@
+{
+  "plugins": ["cypress"],
+  "env": {
+    "node": true,
+    "cypress/globals": true
+  },
+  "rules": {
+    "jest/no-identical-title": "warn"
+  }
+}

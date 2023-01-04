@@ -1,0 +1,14 @@
+{
+  "extends": ["next"],
+  "settings": {
+    "next": {
+      "rootDir": ["webapps/landlord"]
+    }
+  },
+  "env": {
+    "browser": true
+  },
+  "rules": {
+    "import/no-named-as-default": "off"
+  }
+}
