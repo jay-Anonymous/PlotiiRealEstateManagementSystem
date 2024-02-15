@@ -56,7 +56,7 @@
   },
   "dependencies": {
     "husky": "7.0.4",
-    "lint-staged": "12.3.4"
+    "lint-staged": "12.5.0"
   },
   "packageManager": "yarn@3.3.0"
 }
