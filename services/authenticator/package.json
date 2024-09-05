@@ -23,12 +23,12 @@
   },
   "dependencies": {
     "@microrealestate/common": "*",
-    "axios": "0.27.2",
-    "bcrypt": "5.0.1",
+    "axios": "1.6.8",
+    "bcrypt": "5.1.0",
     "cookie-parser": "1.4.5",
     "express": "4.17.1",
     "express-winston": "2.6.0",
-    "jsonwebtoken": "8.5.1",
+    "jsonwebtoken": "9.0.2",
     "locale": "0.1.0",
     "winston": "2.4.4"
   }
