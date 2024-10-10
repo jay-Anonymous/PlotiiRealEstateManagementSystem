@@ -67,7 +67,7 @@
     "react-awesome-lightbox": "1.8.1",
     "react-dom": "18.2.0",
     "recharts": "2.1.16",
-    "universal-cookie": "4.0.4",
+    "universal-cookie": "7.2.1",
     "yup": "0.32.11"
   },
   "devDependencies": {
