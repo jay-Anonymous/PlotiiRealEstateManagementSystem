@@ -48,7 +48,7 @@
     "mobx": "6.6.1",
     "mobx-react-lite": "3.4.0",
     "moment": "2.29.4",
-    "nanoid": "4.0.0",
+    "nanoid": "5.0.9",
     "next": "13.0.7",
     "next-translate": "1.6.0",
     "pdfjs-dist": "2.14.305",
