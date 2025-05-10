@@ -68,7 +68,7 @@
     "react-dom": "18.2.0",
     "recharts": "2.1.16",
     "universal-cookie": "4.0.4",
-    "yup": "0.32.11"
+    "yup": "1.0.0"
   },
   "devDependencies": {
     "@babel/core": "7.18.6",
