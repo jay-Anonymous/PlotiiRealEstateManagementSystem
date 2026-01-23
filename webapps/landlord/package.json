@@ -43,7 +43,7 @@
     "jose": "4.8.3",
     "js-file-download": "0.4.12",
     "jsesc": "3.0.2",
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "material-ui-formik-components": "0.7.3",
     "mobx": "6.6.1",
     "mobx-react-lite": "3.4.0",
